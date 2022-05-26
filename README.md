@@ -28,5 +28,12 @@ Responsive bir tasarımdır :rotating_light:
 <p>
  <img align="center" alt="bloggy" src="https://user-images.githubusercontent.com/44196940/170581266-388a883b-3d00-47f3-a68c-513eb081de1a.png">
 </p>
+## Responsive :star2:  
+<p align="center">
+ <img  width="33%" alt="bloggy" src="https://user-images.githubusercontent.com/44196940/170581473-09939c62-09cf-4cfc-a9ed-e7429ea23ebc.png">
+ <img width="33%"  alt="bloggy" src="https://user-images.githubusercontent.com/44196940/170581576-8d681087-0296-4499-ad32-0d0da470fce5.png">
+ <img width="33%" alt="bloggy" src="https://user-images.githubusercontent.com/44196940/170581645-cf3ed8ae-6ba3-475d-8193-570419fe623d.png">
+</p>
+
 
 
