@@ -1,0 +1,13 @@
+@import "../../style/style.scss";
+.editblogpage {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    button:nth-child(2){
+        background: $primary;
+        color: $light;
+        font-weight: $fw-bold;
+        
+    }
+}

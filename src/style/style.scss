@@ -1,0 +1,97 @@
+@import "../style/reset.scss";
+@import "../style/variables.scss";
+
+
+body {
+    width: 100%;
+    font-family: $lato;
+    background-color: $dark;
+    &::-webkit-scrollbar {
+        
+        width: 1em;
+    }
+    &::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+    &::-webkit-scrollbar-thumb {
+        background-color: darkgrey;
+        outline: 1px solid slategrey;
+    }
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+::-moz-selection {
+    /* Code for Firefox */
+    color: white;
+    background: $primary;
+}
+
+::selection {
+    color: black;
+    background: $primary;
+}
+
+button {
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    padding: 0.8rem;
+    font-size: 1.3rem;
+    border: 2px solid $primary;
+    width: 13rem;
+
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size: 1.9rem;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    color: white;
+    margin-top: 5rem;
+    word-spacing: 1.5rem;
+    letter-spacing: 0.5rem;
+
+    &::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        width: 48%;
+        height: 15px;
+        background-color: $primary;
+        z-index: -1;
+        margin-top: 13px;
+    }
+}
+
+p {
+    color: $light;
+}
+
+input:focus {
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+textarea:focus {
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
