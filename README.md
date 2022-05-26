@@ -25,4 +25,8 @@ Responsive bir tasarımdır :rotating_light:
   &nbsp;<img height="28" width="28" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 </p>
 
+<p>
+ <img align="center" alt="bloggy" src="https://user-images.githubusercontent.com/44196940/170581266-388a883b-3d00-47f3-a68c-513eb081de1a.png">
+</p>
+
 
