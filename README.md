@@ -1,5 +1,5 @@
 # BLOGGY
-Redux kullanmayı öğrenmek için yaptığım ugulamam. Eğlenceli bir kaç yeni şey denemek istediğim için siteye Ana sayfasına sevimli boloncuklar ekledim. Bunun için ***Framer-motion*** eklentisini kullandım. `<motion>&lt; motion /&gt;</motion>` .  
+Redux kullanmayı öğrenmek için yaptığım ugulamam. Eğlenceli bir kaç yeni şey denemek istediğim için siteye Ana sayfasına sevimli boloncuklar ekledim. Bunun için ***Framer-motion*** eklentisini kullandım. `<motion>hello</motion>` .  
 
 ***Framer-motion*** : Sitemize animasyon eklemek için geliştirilmiş bir react kütüphanesidir.  
 Mutlaka deneyip eğlenmelisiniz :heart:   
