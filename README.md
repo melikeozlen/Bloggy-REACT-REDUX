@@ -5,7 +5,7 @@ Redux kullanmayı öğrenmek için yaptığım ugulamam. Eğlenceli bir kaç yen
 Mutlaka deneyip eğlenmelisiniz :heart:   
 <hr>
 
-Bu proje daha geliştirilmeye devam etmektedir. Mern stack kullanılarak back-end eklenecektir.  
+Bu proje daha geliştirilmeye devam etmektedir. MERN stack kullanılarak back-end eklenecektir.  
 Sitenin tasarımı bana aittir. 
 
 ### What I Use ?
