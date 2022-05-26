@@ -20,4 +20,8 @@ Responsive bir tasarımdır :rotating_light:
   <img height="28" width="28" alt="react js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   &nbsp;<img height="28" width="28" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 </p>
+<p>
+ <img align="center" alt="bloggy" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://user-images.githubusercontent.com/44196940/170579230-93a45ebf-e5b1-463c-81e7-ef60ce34b808.png)">
+  </p>
+
 
