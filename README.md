@@ -3,7 +3,7 @@
  <img align="center" alt="bloggy" src="https://user-images.githubusercontent.com/44196940/170579230-93a45ebf-e5b1-463c-81e7-ef60ce34b808.png">
 </p>
 
-Redux kullanmayı öğrenmek için yaptığım ugulamam. Eğlenceli bir kaç yeni şey denemek istediğim için siteye Ana sayfasına sevimli boloncuklar ekledim. Bunun için ***Framer-motion*** eklentisini kullandım. `<motion>hello</motion>` .  
+Redux kullanmayı öğrenmek için yaptığım ugulamam. Eğlenceli bir kaç yeni şey denemek istedim. Ana sayfaya sevimli hareketli boloncuklar ekledim. Bunun için ***Framer-motion*** react kütüphanesini kullandım. `<motion>hello</motion>` .  
 
 ***Framer-motion*** : Sitemize animasyon eklemek için geliştirilmiş bir react kütüphanesidir.  
 Mutlaka deneyip eğlenmelisiniz :heart:   
